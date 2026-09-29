@@ -10,13 +10,19 @@
 
 本项目计划将 David Tong 公开讲义翻译为中文，保留其物理含义、公式、符号约定和解释风格。这是独立的社区项目。
 
-原始来源：[官方教学目录](https://www.damtp.cam.ac.uk/user/tong/teaching.htm)。
+原始来源：[David Tong 官方教学目录](https://davidtong.org/teaching/)。
+
+## 讲义合集
+
+[课程索引](catalog/README.md)覆盖 23 门课程。本地资料库已收录官网 24 份整套课程 PDF，以及三套指定版本的 arXiv 讲义 PDF、原始源码压缩包和解压后的 TeX。
 
 ## 工作流程
 
 每章依次完成来源核验、初译、物理校对、中文校对、编译检查和发布。详见[翻译规则](docs/translation-rules.md)。
 
 [arXiv 来源目录](catalog/arxiv-sources.json)记录讲义版本。运行 `python3 tools/download_arxiv_sources.py`，即可将 PDF、原始源码包和解压后的 TeX 保存至 `downloads/arxiv/`，本地下载报告记录校验值与文件数量。
+
+运行 `python3 tools/download_website_pdfs.py`，即可将官网整套讲义保存至 `downloads/website/`。[官网来源目录](catalog/website-sources.json)记录下载地址、获取时间、文件大小和校验值。原始文件保存在本地，仓库提供可重复执行的下载脚本与来源索引。
 
 ## 目录
 

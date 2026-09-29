@@ -1,0 +1,358 @@
+{
+  "retrieved_at": "2026-09-29T02:33:33.979919+00:00",
+  "index_url": "https://davidtong.org/teaching/",
+  "courses": [
+    {
+      "slug": "dynamics-and-relativity",
+      "title": "Dynamics and Relativity",
+      "course_url": "https://davidtong.org/teaching/dynamics-and-relativity/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/dynamics-and-relativity/dynrel.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/dynamics-and-relativity/dynrel.pdf",
+          "bytes": 1245028,
+          "sha256": "a741d3efc098467de148d14a43ab338dfd8366480967159a7acfc4190b8f644d"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "classical-dynamics",
+      "title": "Classical Dynamics",
+      "course_url": "https://davidtong.org/teaching/classical-dynamics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/classical-dynamics/clas.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/classical-dynamics/clas.pdf",
+          "bytes": 1093743,
+          "sha256": "b65ba2b0399df6b02ca3850e5c69ee0255c3011a35664e80766349f521e43e80"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "vector-calculus",
+      "title": "Vector Calculus",
+      "course_url": "https://davidtong.org/teaching/vector-calculus/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/vector-calculus/vc.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/vector-calculus/vc.pdf",
+          "bytes": 6766206,
+          "sha256": "f1f20c4a21759055efcae535e96bdbef089203ebabbddc144856debe8cca93dd"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "electromagnetism",
+      "title": "Electromagnetism",
+      "course_url": "https://davidtong.org/teaching/electromagnetism/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/electromagnetism/electro.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/electromagnetism/electro.pdf",
+          "bytes": 1882442,
+          "sha256": "f692ea30f9c97835cc18dd86883b6c1e4b9d0aad5e55a98101d8ad4e0396fb19"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "quantum-mechanics",
+      "title": "Quantum Mechanics",
+      "course_url": "https://davidtong.org/teaching/quantum-mechanics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/quantum-mechanics/qm.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/quantum-mechanics/qm.pdf",
+          "bytes": 6016673,
+          "sha256": "34b3882872333dc125af57a4327a3601ffe65c857edae50a643c485982d545f0"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "topics-in-quantum-mechanics",
+      "title": "Topics in Quantum Mechanics",
+      "course_url": "https://davidtong.org/teaching/topics-in-quantum-mechanics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/topics-in-quantum-mechanics/topicsinqm.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/topics-in-quantum-mechanics/topicsinqm.pdf",
+          "bytes": 2087878,
+          "sha256": "790374eaab3cb3560a9f145d2c17d4c801ce18702ae40a4cae5176ca4dfe0320"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "solid-state-physics",
+      "title": "Solid State Physics",
+      "course_url": "https://davidtong.org/teaching/solid-state-physics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/solid-state-physics/solidstate.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/solid-state-physics/solidstate.pdf",
+          "bytes": 2307001,
+          "sha256": "be57fee9ade6a88ddf2fe3a12f5bf7ea7044e31114bec207f451a1d620dbbc96"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "quantum-hall-effect",
+      "title": "Quantum Hall Effect",
+      "course_url": "https://davidtong.org/teaching/quantum-hall-effect/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/quantum-hall-effect/qhe.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/quantum-hall-effect/qhe.pdf",
+          "bytes": 2148132,
+          "sha256": "2477759f7ba9da336efac8aecc42a2d5da8a8b84806d6016beca9e56d67010ff"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "fluid-mechanics",
+      "title": "Fluid Mechanics",
+      "course_url": "https://davidtong.org/teaching/fluid-mechanics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/fluid-mechanics/fluids.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/fluid-mechanics/fluids.pdf",
+          "bytes": 11323490,
+          "sha256": "a2b9cb17dd94a894b43d6c31b37e52fb75e3c3a310fee9bcaf7916f79cd1d095"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "kinetic-theory",
+      "title": "Kinetic Theory",
+      "course_url": "https://davidtong.org/teaching/kinetic-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/kinetic-theory/kinetic.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/kinetic-theory/kinetic.pdf",
+          "bytes": 771160,
+          "sha256": "0c302e2a7157032bb76dd6546942847e81a38397deff28c6d239110320d50707"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "mathematical-biology",
+      "title": "Mathematical Biology",
+      "course_url": "https://davidtong.org/teaching/mathematical-biology/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/mathematical-biology/mathbio.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/mathematical-biology/mathbio.pdf",
+          "bytes": 6913692,
+          "sha256": "0bf8571bbfa6ea966dafd02626fc86e5d70ee8dca087d046c8f0813cc3486772"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "statistical-physics",
+      "title": "Statistical Physics",
+      "course_url": "https://davidtong.org/teaching/statistical-physics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/statistical-physics/statphys.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/statistical-physics/statphys.pdf",
+          "bytes": 1951403,
+          "sha256": "9d41ab5d5751a44e3a5e117da30f25ad555e6e023bddec8366f9450570dcf5d4"
+        },
+        {
+          "url": "https://davidtong.org/pdfs/teaching/statistical-physics/fisest.pdf",
+          "label": "Espa\u00f1ol",
+          "path": "downloads/website/statistical-physics/fisest.pdf",
+          "bytes": 2197100,
+          "sha256": "338677efbec1a049b6783c0b03249dc3bb056a03f5187aabd86bfec615a5832e"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "statistical-field-theory",
+      "title": "Statistical Field Theory",
+      "course_url": "https://davidtong.org/teaching/statistical-field-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/statistical-field-theory/sft.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/statistical-field-theory/sft.pdf",
+          "bytes": 2675122,
+          "sha256": "1ee10daf7c49168cbedb32e56bf927ff35df707cd31252d6aab9a5da72816a39"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "general-relativity",
+      "title": "General Relativity",
+      "course_url": "https://davidtong.org/teaching/general-relativity/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/general-relativity/gr.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/general-relativity/gr.pdf",
+          "bytes": 3108446,
+          "sha256": "3ba65dc61f22a69c7d5fdf3e8e1f641efbfa6cf49a44b3dcb0fd5367ba9fcf1c"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "cosmology",
+      "title": "Cosmology",
+      "course_url": "https://davidtong.org/teaching/cosmology/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/cosmology/cosmo.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/cosmology/cosmo.pdf",
+          "bytes": 11421641,
+          "sha256": "2719467afd998e9a23b34b8ac50044393fdceea0a78851127c287560517d4356"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "quantum-field-theory",
+      "title": "Quantum Field Theory",
+      "course_url": "https://davidtong.org/teaching/quantum-field-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/quantum-field-theory/qft.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/quantum-field-theory/qft.pdf",
+          "bytes": 1336423,
+          "sha256": "60a3156ba0fd04c3935b3b8889f6f3ff0e9a021240e121c1bbd44812554bda3b"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "gauge-theory",
+      "title": "Gauge Theory",
+      "course_url": "https://davidtong.org/teaching/gauge-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/gauge-theory/gauge.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/gauge-theory/gauge.pdf",
+          "bytes": 4139125,
+          "sha256": "4e5a6238aa6578cd4ade5f80c8b74ef2f70f0275483cb6b81ea1c6de859c21a1"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "particle-physics",
+      "title": "Particle Physics",
+      "course_url": "https://davidtong.org/teaching/particle-physics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/particle-physics/pp.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/particle-physics/pp.pdf",
+          "bytes": 22871770,
+          "sha256": "b48c73b902652a254b9d7e117bf0d4acc59e1be1387b98af6edb0aa9964fe6f3"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "standard-model",
+      "title": "The Standard Model",
+      "course_url": "https://davidtong.org/teaching/standard-model/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/standard-model/standardmodel.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/standard-model/standardmodel.pdf",
+          "bytes": 11932871,
+          "sha256": "90d9022f9e6133ee59f4758db5acf7418405886fbfb527cf595ab6b29d3cfa6a"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "supersymmetric-quantum-mechanics",
+      "title": "Supersymmetric Quantum Mechanics",
+      "course_url": "https://davidtong.org/teaching/supersymmetric-quantum-mechanics/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/supersymmetric-quantum-mechanics/susyqm.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/supersymmetric-quantum-mechanics/susyqm.pdf",
+          "bytes": 6089578,
+          "sha256": "299131c4b7deb2916ed161dfbc5050311333b32c384b638a11f493b3597a8324"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "supersymmetric-field-theory",
+      "title": "Supersymmetric Field Theory",
+      "course_url": "https://davidtong.org/teaching/supersymmetric-field-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/supersymmetric-field-theory/susy.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/supersymmetric-field-theory/susy.pdf",
+          "bytes": 2398335,
+          "sha256": "5a4ab3c0d8e4d0e90d57f17cce20213e7791e59da6f1db48f0f66ff8761b3e31"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "string-theory",
+      "title": "String Theory",
+      "course_url": "https://davidtong.org/teaching/string-theory/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/string-theory/string.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/string-theory/string.pdf",
+          "bytes": 1366542,
+          "sha256": "d35ca681621c6b6b6ba1c0ec5afb4a35f40b8962bed80cbdfca0457b0b2f5812"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "slug": "solitons",
+      "title": "Solitons and D-Branes",
+      "course_url": "https://davidtong.org/teaching/solitons/",
+      "pdfs": [
+        {
+          "url": "https://davidtong.org/pdfs/teaching/solitons/tasi.pdf",
+          "label": "Full Lecture Notes",
+          "path": "downloads/website/solitons/tasi.pdf",
+          "bytes": 1352643,
+          "sha256": "8004f9716bdb65f492dc062d416d094b2e9c09a0e5ea2b98b854a60848e2b2dd"
+        }
+      ],
+      "status": "complete"
+    }
+  ]
+}
