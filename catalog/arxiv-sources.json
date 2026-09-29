@@ -1,0 +1,27 @@
+{
+  "verified_on": "2026-09-29",
+  "scope": "David Tong lecture notes verified on arXiv; this catalog is not the full teaching collection.",
+  "sources": [
+    {
+      "slug": "solitons",
+      "title": "TASI Lectures on Solitons",
+      "author": "David Tong",
+      "arxiv_id": "hep-th/0509216v5",
+      "url": "https://arxiv.org/abs/hep-th/0509216v5"
+    },
+    {
+      "slug": "string-theory",
+      "title": "Lectures on String Theory",
+      "author": "David Tong",
+      "arxiv_id": "0908.0333v3",
+      "url": "https://arxiv.org/abs/0908.0333v3"
+    },
+    {
+      "slug": "quantum-hall-effect",
+      "title": "Lectures on the Quantum Hall Effect",
+      "author": "David Tong",
+      "arxiv_id": "1606.06687v2",
+      "url": "https://arxiv.org/abs/1606.06687v2"
+    }
+  ]
+}

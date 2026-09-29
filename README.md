@@ -1,6 +1,6 @@
 <p align="center"><a href="README.md">🇺🇸 English</a> | <a href="README.zh.md">🇨🇳 中文</a></p>
 
-<h1 align="center">David Tong Lectures ZH</h1>
+<h1 align="center">David Tong Lectures CN Translation</h1>
 
 <p align="center"><img alt="Public" src="https://img.shields.io/badge/visibility-public-blue"> <img alt="Original tools: Apache-2.0" src="https://img.shields.io/badge/original_tools-Apache--2.0-blue"></p>
 
@@ -10,13 +10,13 @@
 
 This community project aims to translate David Tong's publicly available lecture notes into Chinese, preserving their physical meaning, equations, notation, and explanatory voice. It is an independent initiative.
 
-Status: preparation. No translated chapter has been released. The complete course inventory, source versions, and translation publication permissions remain to be verified.
-
 Original sources: [official teaching directory](https://www.damtp.cam.ac.uk/user/tong/teaching.htm).
 
 ## Workflow
 
 Each chapter progresses through source verification, first translation, physics review, Chinese-language review, compilation checks, and release. See [translation rules](docs/translation-rules.md).
+
+The [arXiv source catalog](catalog/arxiv-sources.json) pins lecture versions. Run `python3 tools/download_arxiv_sources.py` to save PDFs, original source archives, and extracted TeX under `downloads/arxiv/`. A local report records checksums and file counts.
 
 ## Structure
 
